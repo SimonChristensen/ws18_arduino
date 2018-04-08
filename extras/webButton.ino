@@ -1,6 +1,5 @@
 /* 
 webButton - A button that triggers a dweet event.
-Also checks battery voltage and alerts if voltage is low.
 */
 
 #include <ESP8266WiFi.h>
