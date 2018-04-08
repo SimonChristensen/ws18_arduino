@@ -21,10 +21,13 @@ void setup(){
 	//initialize the servo
 	}
 
-void loop{
+void loop(){
 	//1. read the fsr  
 	//2. map the value from the input range to the output range (0-1024 -> 0-180)
 	//3. write the mapped value to the servo. 
 	}
 
 ```
+
+Good luck. Have fun.
+If you're looking for extra challenges head on over to [the extras section](../extras)
