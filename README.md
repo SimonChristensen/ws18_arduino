@@ -14,12 +14,12 @@ The workshop is a hands-on walkthrough of some of the examples from the arduino 
 Bring a laptop. 
 
 # Installation
-go to [arduino.cc](https://www.arduino.cc/en/Main/Software) and download the installer for your preferred operating system. Run it. Done.
+Go to [arduino.cc](https://www.arduino.cc/en/Main/Software) and download the installer for your preferred operating system. Run it. Done.
 
 # Hacks
 * [1 - Blinking an LED with a button](./1_blink)
 * [3 - Reading a force sensitive resistor](./2_FSR)
-* [4 - Controlling a servo.](https://www.arduino.cc/en/Tutorial/Sweep)
+* [4 - Controlling a servo.](./3_servo)
 * [5 - Force controlled servo.](./4_FSR_Controlled_Servo)
 
 # Extras
