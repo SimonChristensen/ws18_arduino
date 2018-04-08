@@ -18,8 +18,13 @@ go to [arduino.cc](https://www.arduino.cc/en/Main/Software) and download the ins
 
 # Hacks
 * [1 - Blinking an LED](https://www.arduino.cc/en/Tutorial/Blink)
-* [2 - Reading a force sensitive resistor]()
+Hardware setup:
+![Blink](blink.jpg)
+
+* [2 - Reading a force sensitive resistor](./2_FSR)
+
 * [3 - Controlling a servo.](https://www.arduino.cc/en/Tutorial/Sweep)
 * [4 - Force controlled servo.](./4_FSR_Controlled_Servo)
 
 # Extras
+[Keyboard emulation, IoT, borrowing stuff](./extras)
