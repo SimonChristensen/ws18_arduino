@@ -1,11 +1,15 @@
 # FSR
 
 The FSR is a force sensitive resistor ([datasheet](https://d2drzakx2pq6fl.cloudfront.net/production/products/resources/55/Datasheet_FSR.pdf)), which means that it will change its resistance in relation to an applied force. The relation between force and resistance is shown in the graph below:
+
 ![FSR graph](fsr-graph.jpg)
 
 
 # Hardware setup
-Since the Arduino cannot directly measure resistance, we construct a voltage divider ([wikipedia](https://en.wikipedia.org/wiki/Voltage_divider)) which effectively turns a change in resistance into a change in voltage, which can then be measured by the Arduino using the analogRead() function. The hardware is set up as follows:
+Since the Arduino cannot directly measure resistance, we construct a voltage divider ([wikipedia](https://en.wikipedia.org/wiki/Voltage_divider)) which effectively turns a change in resistance into a change in voltage, which can then be measured by the Arduino using the analogRead() function. 
+
+**The hardware is set up as follows:**
+
 ![FSR hardware](fsr.png)
 
 # Code
