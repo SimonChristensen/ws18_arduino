@@ -17,14 +17,10 @@ Bring a laptop.
 go to [arduino.cc](https://www.arduino.cc/en/Main/Software) and download the installer for your preferred operating system. Run it. Done.
 
 # Hacks
-* [1 - Blinking an LED](https://www.arduino.cc/en/Tutorial/Blink)
-Hardware setup:
-![Blink](blink.jpg)
-
-* [2 - Reading a force sensitive resistor](./2_FSR)
-
-* [3 - Controlling a servo.](https://www.arduino.cc/en/Tutorial/Sweep)
-* [4 - Force controlled servo.](./4_FSR_Controlled_Servo)
+* [1 - Blinking an LED with a button](./1_blink)
+* [3 - Reading a force sensitive resistor](./2_FSR)
+* [4 - Controlling a servo.](https://www.arduino.cc/en/Tutorial/Sweep)
+* [5 - Force controlled servo.](./4_FSR_Controlled_Servo)
 
 # Extras
 [Keyboard emulation, IoT, borrowing stuff](./extras)
