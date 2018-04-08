@@ -7,7 +7,7 @@ Hook up the FSR and the Servo to the same arduino as shown here:
 ![Servo and FSR together](servo+fsr.png)
 
 # Code
-Try and mash the code from the two previous tutorials together.
+Try and mash the code from the two previous tutorials together. Discuss what parts you need and what you don't need. Make sure to avoid duplicates.
 
 Use [the map() function](https://www.arduino.cc/reference/en/language/functions/math/map/) to map the analogRead() range (0-1024) to the servo's input range (0-180)
 
